@@ -11,9 +11,7 @@
 
 ## 📚 Sobre o projeto
 
-Este repositório apresenta uma proposta de desenvolvimento de uma **ferramenta digital educacional voltada ao ensino e à aprendizagem de funções quadráticas**, fundamentada nos pressupostos da Engenharia Didática (ED) e articulada à Teoria das Situações Didáticas (TSD) e à Teoria da Gênese Instrumental (TGI).
-
-A ferramenta foi concebida para proporcionar um ambiente interativo de exploração matemática, permitindo a manipulação dinâmica dos coeficientes da função quadrática e a visualização, em tempo real, das transformações produzidas no gráfico da parábola.
+Este repositório apresenta uma proposta de desenvolvimento de uma **ferramenta digital educacional voltada ao ensino e à aprendizagem de funções quadráticas**. A ferramenta foi concebida para proporcionar um ambiente interativo de exploração matemática, permitindo a manipulação dinâmica dos coeficientes da função quadrática e a visualização, em tempo real, das transformações produzidas no gráfico da parábola.
 
 Desenvolvida em **Python**, a aplicação integra representações algébricas e gráficas, mecanismos de feedback automático e atividades interativas, buscando favorecer a experimentação, a investigação e a construção de conhecimentos matemáticos.
 
