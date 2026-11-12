@@ -19,10 +19,6 @@ Desenvolvida em **Python**, a aplicação integra representações algébricas e
 
 A pesquisa tem como objetivo discutir a concepção e o desenvolvimento de uma ferramenta digital educacional para o ensino de funções quadráticas, considerando as contribuições da Gênese Instrumental para a organização de situações de ensino e a compreensão dos processos de apropriação tecnológica. Com a ferramenta buscou-se investigar como um recurso digital, inicialmente concebido como artefato tecnológico, pode ser progressivamente apropriado e transformado em instrumento de aprendizagem matemática.
 
-## 🧠 Fundamentação teórico-metodológica
-
-A proposta articula três importantes referenciais teóricos da Educação Matemática:
-
 ## 📐 Objeto matemático: Funções quadráticas
 
 O conteúdo matemático central da proposta são as **funções quadráticas**, representadas pela expressão geral:
