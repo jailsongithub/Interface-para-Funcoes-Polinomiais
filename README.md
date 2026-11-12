@@ -128,10 +128,8 @@ A proposta de desenvolvimento da ferramenta digital está fundamentada no seguin
 ## 👨‍💻 Autores e pesquisadores
 
 **Jailson França dos Santos**  
-Autor e desenvolvedor da proposta.
-
 **Francisco Régis Vieira Alves**  
-Coautor e supervisor da pesquisa de pós-doutorado.
+
 
 ## 📩 Contato
 
