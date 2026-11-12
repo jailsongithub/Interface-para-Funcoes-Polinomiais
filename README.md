@@ -97,26 +97,20 @@ Entre as possibilidades de utilização da ferramenta, destacam-se:
 - Experimentação matemática por meio de recursos digitais;
 - Desenvolvimento da autonomia e do raciocínio lógico-matemático;
 - Integração de tecnologias digitais às práticas pedagógicas.
+## 📚 Alinhamento com a Base Nacional Comum Curricular (BNCC)
 
-A proposta também considera habilidades previstas na Base Nacional Comum Curricular (BNCC), especialmente EF08MA09, EF09MA09, EM13MAT302, EM13MAT402 e EM13MAT502.
+O aplicativo contempla conteúdos e habilidades matemáticas previstas na **Base Nacional Comum Curricular (BNCC)**, especialmente aquelas relacionadas à resolução de equações do segundo grau, ao estudo das funções polinomiais e à interpretação de suas representações gráficas.
 
-## 🔬 Organização metodológica da proposta
+| Etapa de Ensino | Código | Descrição da habilidade |
+|---|---|---|
+| Ensino Fundamental – 8º ano | **EF08MA09** | Resolver e elaborar problemas que possam ser representados por equações polinomiais de 2º grau. |
+| Ensino Fundamental – 9º ano | **EF09MA09** | Compreender os processos de fatoração de expressões algébricas e sua relação com a resolução de equações. |
+| Ensino Médio | **EM13MAT302** | Construir modelos empregando funções polinomiais de 1º ou 2º grau. |
+| Ensino Médio | **EM13MAT402** | Converter representações algébricas de funções polinomiais de 1º grau em representações geométricas no plano cartesiano. |
+| Ensino Médio | **EM13MAT502** | Investigar relações entre números expressos em tabelas e representações gráficas de funções polinomiais de 2º grau. |
 
-O desenvolvimento da ferramenta está estruturado em dois momentos principais:
+Essa articulação curricular busca favorecer o desenvolvimento do raciocínio lógico-matemático, a resolução de problemas, a compreensão das funções quadráticas e a interpretação de suas propriedades algébricas e gráficas.
 
-**Momento 1 – Investigações preliminares e estruturação do recurso digital**
-
-- Etapa 1.1: Compreensão do objeto matemático;
-- Etapa 1.2: Estruturação do objeto matemático e planejamento do recurso digital;
-- Etapa 1.3: Definição tecnológica e estruturação dos conteúdos matemáticos.
-
-**Momento 2 – Construção digital e análise a priori**
-
-- Etapa 2.1: Prototipação e representações matemáticas;
-- Etapa 2.2: Desenvolvimento e integração didática;
-- Etapa 2.3: Validação do recurso e transformação instrumental.
-
-Essa organização busca estabelecer uma conexão entre os conhecimentos matemáticos, as decisões tecnológicas e as hipóteses didáticas que orientam a utilização da ferramenta.
 
 ## 📄 Publicação científica relacionada
 
