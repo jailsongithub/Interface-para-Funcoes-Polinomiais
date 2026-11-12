@@ -1,5 +1,5 @@
 
-# 📈 Funções Quadráticas e Tecnologia Digital – Uma Proposta sob a Perspectiva da Engenharia Didática e da Gênese Instrumental
+# 📈 Funções Quadráticas e Tecnologia Digital
 
 <p align="center">
   <strong>Tecnologia, interatividade e fundamentação didática para o ensino e a aprendizagem de funções quadráticas!</strong>
