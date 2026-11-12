@@ -125,14 +125,6 @@ A proposta de desenvolvimento da ferramenta digital está fundamentada no seguin
 - **Periódico:** [Revista VIDYA](https://periodicos.ufn.edu.br/index.php/VIDYA).
 - **Acesso ao artigo:** [Consultar publicação científica](https://doi.org/10.37781/vidya.v46i1.5530).
 
-## 📚 Contribuição científica e educacional
-
-A pesquisa busca contribuir para as discussões sobre a integração de tecnologias digitais ao ensino da Matemática, destacando a importância de fundamentar pedagogicamente o desenvolvimento de ferramentas educacionais.
-
-Ao articular Engenharia Didática, Teoria das Situações Didáticas e Gênese Instrumental, a proposta apresenta possibilidades de planejamento e análise de recursos digitais, considerando não apenas suas funcionalidades técnicas, mas também os processos de apropriação e construção do conhecimento matemático.
-
-Ressalta-se que as potencialidades de aprendizagem apresentadas constituem hipóteses didáticas formuladas nas fases iniciais da Engenharia Didática, cuja efetivação depende de investigações empíricas em contextos reais de ensino.
-
 ## 👨‍💻 Autores e pesquisadores
 
 **Jailson França dos Santos**  
