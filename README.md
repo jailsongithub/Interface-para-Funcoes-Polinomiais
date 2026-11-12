@@ -15,8 +15,6 @@ Este repositório apresenta uma proposta de desenvolvimento de uma **ferramenta 
 
 Desenvolvida em **Python**, a aplicação integra representações algébricas e gráficas, mecanismos de feedback automático e atividades interativas, buscando favorecer a experimentação, a investigação e a construção de conhecimentos matemáticos.
 
-O projeto está associado à pesquisa apresentada no artigo científico publicado na revista *VIDYA*, em 2026, constituindo uma proposta de integração entre desenvolvimento tecnológico, fundamentação teórica e intencionalidade pedagógica.
-
 ## 🎯 Objetivo da pesquisa
 
 A pesquisa tem como objetivo discutir a concepção e o desenvolvimento de uma ferramenta digital educacional para o ensino de funções quadráticas, considerando as contribuições da Engenharia Didática e da Gênese Instrumental para a organização de situações de ensino e a compreensão dos processos de apropriação tecnológica.
