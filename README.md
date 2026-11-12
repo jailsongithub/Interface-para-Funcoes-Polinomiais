@@ -17,41 +17,11 @@ Desenvolvida em **Python**, a aplicação integra representações algébricas e
 
 ## 🎯 Objetivo da pesquisa
 
-A pesquisa tem como objetivo discutir a concepção e o desenvolvimento de uma ferramenta digital educacional para o ensino de funções quadráticas, considerando as contribuições da Engenharia Didática e da Gênese Instrumental para a organização de situações de ensino e a compreensão dos processos de apropriação tecnológica.
-
-Busca-se investigar como um recurso digital, inicialmente concebido como artefato tecnológico, pode ser progressivamente apropriado e transformado em instrumento de aprendizagem matemática.
+A pesquisa tem como objetivo discutir a concepção e o desenvolvimento de uma ferramenta digital educacional para o ensino de funções quadráticas, considerando as contribuições da Gênese Instrumental para a organização de situações de ensino e a compreensão dos processos de apropriação tecnológica. Com a ferramenta buscou-se investigar como um recurso digital, inicialmente concebido como artefato tecnológico, pode ser progressivamente apropriado e transformado em instrumento de aprendizagem matemática.
 
 ## 🧠 Fundamentação teórico-metodológica
 
 A proposta articula três importantes referenciais teóricos da Educação Matemática:
-
-### 1. Engenharia Didática (ED)
-
-A Engenharia Didática constitui a abordagem metodológica que orienta a concepção e o desenvolvimento da ferramenta digital, contemplando as fases de:
-
-- Análises preliminares;
-- Análise a priori;
-- Experimentação;
-- Análise a posteriori e validação.
-
-A pesquisa concentra-se especialmente nas duas primeiras fases, que fundamentam o planejamento pedagógico e tecnológico do recurso.
-
-### 2. Teoria das Situações Didáticas (TSD)
-
-A Teoria das Situações Didáticas, desenvolvida por Guy Brousseau, fundamenta a organização das atividades de ensino, considerando as interações entre estudante, professor e meio didático.
-
-A proposta contempla situações que estimulam a exploração, a formulação de hipóteses, a validação de estratégias e a institucionalização dos conhecimentos matemáticos.
-
-### 3. Teoria da Gênese Instrumental (TGI)
-
-A Teoria da Gênese Instrumental, proposta por Pierre Rabardel, permite compreender como um artefato tecnológico pode se transformar em instrumento de aprendizagem por meio da interação e da apropriação pelo sujeito.
-
-Nesse processo, destacam-se dois conceitos fundamentais:
-
-- **Instrumentação:** processo relacionado à construção e à evolução dos esquemas de utilização pelo sujeito;
-- **Instrumentalização:** processo relacionado à transformação e à adaptação do artefato pelo sujeito.
-
-A articulação entre esses referenciais permite analisar as potencialidades pedagógicas da ferramenta digital e formular hipóteses sobre sua apropriação no contexto educacional.
 
 ## 📐 Objeto matemático: Funções quadráticas
 
