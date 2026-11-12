@@ -23,9 +23,9 @@ A pesquisa tem como objetivo discutir a concepção e o desenvolvimento de uma f
 
 O conteúdo matemático central da proposta são as **funções quadráticas**, representadas pela expressão geral:
 
-\[
+$$
 f(x)=ax^2+bx+c,\quad a\neq 0
-\]
+$$
 
 A ferramenta possibilita explorar diferentes propriedades e conceitos matemáticos, especialmente:
 
